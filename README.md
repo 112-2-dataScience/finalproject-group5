@@ -30,13 +30,22 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   * Source:<br>
      * stock_train_data.csv
 
-  * Format: csv
+  * Format:  csv檔案
   * Size<br>
      * 數量 : 54989<br>
      * 特徵: Rsi , macd , signal , cci , pctB , close , up , avg5 , up5 , avg3 , up3 , macd_way <br>
  
 ### code
 * Analysis steps
+  *  set seed
+  *  Feature Selection
+  *  grid search
+  *  glmnet
+  *  Data Preprocessing
+  *  model build
+  *  prediction
+  *  ompare F1_score, R_square, accuarcy
+ 
 * Which method or package do you use?
 * How do you perform training and evaluation?
   * Cross-validation, or extra separated data
@@ -44,6 +53,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ### results
 * What is your performance?
+* How do your perform evaluation? 
 * Is the improvement significant?
 
 ## References
