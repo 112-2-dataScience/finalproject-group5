@@ -28,11 +28,11 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 ### data
 * Input
   * Source:
-    &#9632 :stock_train_data.csv
+     ■ stock_train_data.csv
   * Format: csv
   * Size
-    &#9632 數量: 54989
-    &#9632 特徵: Rsi , macd , signal , cci , pctB , close , up , avg5 , up5 , avg3 , up3 , macd_way
+     ■ 數量 : 54989
+     ■ 特徵: Rsi , macd , signal , cci , pctB , close , up , avg5 , up5 , avg3 , up3 , macd_way
  
 ### code
 * Analysis steps
