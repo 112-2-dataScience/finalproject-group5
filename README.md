@@ -47,7 +47,13 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   *  ompare F1_score, R_square, accuarcy
  
 * Which method or package do you use?
-* How do you perform training and evaluation?
+  * Random Forest(library(randomForest))
+  * hyper_parameter_select(library(glmnet))
+  * confusion matrix(library(caret))
+  * Auc(library(pROC))
+  * F1_score(library(MLmetrices))
+  * Feature Selection(library(dplyr))<br>
+  * How do you perform training and evaluation?
   * Cross-validation, or extra separated data
 * What is a null model for comparison?
 
