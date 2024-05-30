@@ -7,7 +7,7 @@
 |陳宥任|資科碩一|112753218|建立模型(Random Forest、 xgboost)，Github| 
 |謝皓雲|資科碩一|112753120|資料收集，整理數據，統整模型，建立股票預測架構|
 |郭承諺|資科四|109703032|建立模型(Random Forest、 xgboost)，海報製作|
-|吳秉叡|社會四|109204039|資料收集，建立模型(Random Forest、 xgboost)|
+|吳秉叡|社會四|109204039|資料收集，建立模型(Random Forest、 xgboost)，海報製作|
 |鄭丞皓|資科三|110703067|建立模型(Random Forest、 xgboost)，海報製作|
 |陳聰堯|阿文四|108502006|資料收集，整理數據，建立模型(Random Forest、 xgboost)|
 ## Quick start
