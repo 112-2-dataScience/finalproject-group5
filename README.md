@@ -58,7 +58,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ### results
 * What is your performance?
-* How do your perform evaluation? 
+
 * Is the improvement significant?
 
 ## References
