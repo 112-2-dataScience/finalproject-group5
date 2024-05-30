@@ -33,7 +33,6 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   * Format: csv
   * Size<br>
      * 數量 : 54989<br>
-     <br>
      * 特徵: Rsi , macd , signal , cci , pctB , close , up , avg5 , up5 , avg3 , up3 , macd_way <br>
  
 ### code
