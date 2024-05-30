@@ -1,5 +1,5 @@
 # [Group5] your project title
-The goals of this project.
+我們設計了一款模型，包含兩種預測模型。<br>第一種模型預測未來三日或五日的收盤價。第二種模型預測未來三日或五日的上漲機率。<br>這些模型旨在幫助投資者，在股市波動時提供一個預測工具，以便更好地進行股票買賣決策
 
 ## Contributors
 |組員|系級|學號|工作分配|
@@ -44,7 +44,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   *  Data Preprocessing
   *  model build
   *  prediction
-  *  compare F1_score, R_square, accuarcy
+  *  compare F1_score, R_squared, accuarcy
  
 * Which method or package do you use?
   * Random Forest(library(randomForest))
@@ -55,9 +55,16 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   * Feature Selection(library(dplyr))<br>
  
 * What is a null model for comparison?
+* How do your perform evaluation?
+  *  F1_score , R_squared 
 
 ### results
 * What is your performance?
+  * Two types of models for prediction:
+  * predicting the closing price for the next three or five days, evaluated using R-squared.
+  * Predicting the probability of an increase in the next three or five days, evaluated using F1_score.
+
+ 
 
 * Is the improvement significant?
 
