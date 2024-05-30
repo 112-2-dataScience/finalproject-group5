@@ -29,7 +29,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 * Input
   * Source:<br>
      * stock_train_data.csv
-     * <br>
+
   * Format: csv
   * Size<br>
      * 數量 : 54989<br>
