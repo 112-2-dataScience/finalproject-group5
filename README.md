@@ -1,12 +1,15 @@
-# [GroupID] your project title
+# [Group5] your project title
 The goals of this project.
 
 ## Contributors
 |組員|系級|學號|工作分配|
 |-|-|-|-|
-|何大南|資科碩二|110753202|團隊中的吉祥物🦒，負責增進團隊氣氛| 
-|張小明|資科碩二|xxxxxxxxx|團隊的中流砥柱，一個人打十個|
-
+|陳宥任|資科碩一|112753218|建立模型(Random Forest、 xgboost)| 
+|謝皓雲|資科碩一|112753120|資料收集，統整模型，建立股票預測架構|
+|郭承諺|資科四|109703032|建立模型(Random Forest、 xgboost)，海報製作|
+|吳秉叡|社會四|109204039|資料收集，建立模型(Random Forest、 xgboost)|
+|鄭丞皓|資科三|110703067|建立模型(Random Forest、 xgboost)，海報製作|
+|陳聰堯|阿文四|108502006|資料收集，建立模型(Random Forest、 xgboost)|
 ## Quick start
 Please provide an example command or a few commands to reproduce your analysis, such as the following R script:
 ```R
