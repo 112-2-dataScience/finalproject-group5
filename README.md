@@ -70,4 +70,16 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ## References
 * Packages you use
+  * xgboost
+  * ggbiplot
+  * pROC
+  * caret
+  * ggplot2
+  * glmnet
+  * randomForest
+  * MLmetrics
+  * shiny
+  * ggbiplot
+ 
+
 * Related publications
