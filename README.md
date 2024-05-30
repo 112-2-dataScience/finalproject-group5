@@ -44,7 +44,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   *  Data Preprocessing
   *  model build
   *  prediction
-  *  ompare F1_score, R_square, accuarcy
+  *  compare F1_score, R_square, accuarcy
  
 * Which method or package do you use?
   * Random Forest(library(randomForest))
@@ -53,8 +53,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   * Auc(library(pROC))
   * F1_score(library(MLmetrices))
   * Feature Selection(library(dplyr))<br>
-  * How do you perform training and evaluation?
-  * Cross-validation, or extra separated data
+ 
 * What is a null model for comparison?
 
 ### results
