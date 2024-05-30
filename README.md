@@ -4,7 +4,7 @@ The goals of this project.
 ## Contributors
 |組員|系級|學號|工作分配|
 |-|-|-|-|
-|陳宥任|資科碩一|112753218|建立模型(Random Forest、 xgboost)| 
+|陳宥任|資科碩一|112753218|建立模型(Random Forest、 xgboost)，Github| 
 |謝皓雲|資科碩一|112753120|資料收集，統整模型，建立股票預測架構|
 |郭承諺|資科四|109703032|建立模型(Random Forest、 xgboost)，海報製作|
 |吳秉叡|社會四|109204039|資料收集，建立模型(Random Forest、 xgboost)|
@@ -27,10 +27,13 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ### data
 * Input
-  * Source
-  * Format
+  * Source:
+    &#9632 :stock_train_data.csv
+  * Format: csv
   * Size
-
+    &#9632 數量: 54989
+    &#9632 特徵: Rsi , macd , signal , cci , pctB , close , up , avg5 , up5 , avg3 , up3 , macd_way
+ 
 ### code
 * Analysis steps
 * Which method or package do you use?
