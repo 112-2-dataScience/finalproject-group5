@@ -85,7 +85,7 @@ If you have any technical problem, feel free to contact us.
   * Predicting the probability of an increase in the next three or five days, evaluated using F1_score.
  
     
-![Stock Market Prediction](images/stock_prediction.png)
+![](docs/操作畫面.png)
  
 
 ## References
