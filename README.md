@@ -51,9 +51,8 @@ If you have any technical problem, feel free to contact us.
   *  set seed
   *  Feature Selection
   *  grid search
-  *  glmnet
   *  Data Preprocessing
-  *  model build
+  *  model build (randomforest, xgboost, linear regression, logistic regression)
   *  choose the model
   *  prediction
   *  compare F1_score, R_squared, accuarcy
