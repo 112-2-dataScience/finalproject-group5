@@ -11,7 +11,6 @@
 |鄭丞皓|資科三|110703067|建立模型(Random Forest、 xgboost)，海報製作|
 |陳聰堯|阿文四|108502006|資料收集，整理數據，建立模型(Random Forest、 xgboost)|
 ## Quick start
-Please provide an example command or a few commands to reproduce your analysis, such as the following R script:
 !! We do not recommend you to run the R file directly, since the memory requirement of it is really high.!!
 The code for training the model has been uploaded to GitHub. It is recommended to download it and run it in R Studio.
 If you have any technical problem, feel free to contact us.
