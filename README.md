@@ -16,9 +16,6 @@ Please provide an example command or a few commands to reproduce your analysis, 
 The code for training the model has been uploaded to GitHub. It is recommended to download it and run it in R Studio.
 If you have any technical problem, feel free to contact us.
 
-## Folder organization and its related description
-idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Projects.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424) PLoS Comput Biol 5(7): e1000424.
-
 ### docs
 * Presentation: <br>
 * Shinyapps: [https://anselcheng.shinyapps.io/HousePrice/](https://112753120nccu.shinyapps.io/Stock_Prediction/)
