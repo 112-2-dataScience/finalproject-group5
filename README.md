@@ -24,12 +24,12 @@ If you have any technical problem, feel free to contact us.
   * Source :<br>
      * stock_train_data.csv
      * 資料收集來自 yahoo!股市；使用R語言，將資料爬下來。
-     * 連結 : https://tw.finance.yahoo.com/
+     * 資料網站連結 : https://tw.finance.yahoo.com/
 
   * Format:  csv檔案
   * Size<br>
-     * 數量 : 54989<br>
-     * 特徵: Rsi , macd , signal , cci , pctB , close , up , avg5 , up5 , avg3 , up3 , macd_way <br>
+     * 數量 : 54989筆資料<br>
+     * 特徵欄位 : Rsi , macd , signal , cci , pctB , close , up , avg5 , up5 , avg3 , up3 , macd_way <br>
 ### 股票市場Feature介紹
 
 * **Rsi**：用於衡量股票價格的變動速度和變動幅度，範圍在0到100之間。當RSI超過70時，表示股票可能處於超買狀態，價格可能回落；當RSI低於30時，表示股票可能處於超賣狀態，價格可能回升。
