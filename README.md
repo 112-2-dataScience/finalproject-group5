@@ -36,7 +36,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   * Size<br>
      * 數量 : 54989<br>
      * 特徵: Rsi , macd , signal , cci , pctB , close , up , avg5 , up5 , avg3 , up3 , macd_way <br>
-# 股票市場Feature介紹
+### 股票市場Feature介紹
 
 * **Rsi**：用於衡量股票價格的變動速度和變動幅度，範圍在0到100之間。當RSI超過70時，表示股票可能處於超買狀態，價格可能回落；當RSI低於30時，表示股票可能處於超賣狀態，價格可能回升。
 * **macd**：是一種技術分析指標，當MACD線從上向下穿過訊號線時，這是一個賣出信號；當MACD線從下向上穿過訊號線時，這是一個買入信號。
