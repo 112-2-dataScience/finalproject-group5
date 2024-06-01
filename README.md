@@ -34,7 +34,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   * Size<br>
      * 數量 : 54989<br>
      * 特徵: Rsi , macd , signal , cci , pctB , close , up , avg5 , up5 , avg3 , up3 , macd_way <br>
-  *股票市場的Feature介紹:<br>
+* 股票市場Feature介紹:
      * up：代表隔天股票價格的上漲。
      * close : 代表股票在交易日結束時的收盤價格。
      * avg5 : 五日移動平均線，表示過去五個交易日的平均收盤價。
