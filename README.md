@@ -71,7 +71,6 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   * F1_score(library(MLmetrices))
   * Feature Selection(library(dplyr))<br>
  
-* What is a null model for comparison?
 * How do your perform evaluation?
   *  F1_score , R_squared 
 
@@ -82,8 +81,6 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   * Predicting the probability of an increase in the next three or five days, evaluated using F1_score.
 
  
-
-* Is the improvement significant?
 
 ## References
 * Packages you use
@@ -99,4 +96,4 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   * ggbiplot
   * dplyr
   * smotefamily
-* Related publications
+
