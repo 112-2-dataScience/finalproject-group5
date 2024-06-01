@@ -21,9 +21,9 @@ If you have any technical problem, feel free to contact us.
 
 ### data
 * Input
-  * Source:<br>
+  * Source :<br>
      * stock_train_data.csv
-     * 資料收集來自 yahoo!股市
+     * 資料收集來自 yahoo!股市；使用R語言，將資料爬下來。
      * 連結 : https://tw.finance.yahoo.com/
 
   * Format:  csv檔案
