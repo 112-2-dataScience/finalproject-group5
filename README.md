@@ -95,7 +95,7 @@ If you have any technical problem, feel free to contact us.
 | Random Forest      | 0.988     |
 | Linear Regression  | 0.978     |
 | XGBoost            | 0.994     |
-
+<br>
 ### Classification Model Comparison
 
 | Method  | F1-score |
