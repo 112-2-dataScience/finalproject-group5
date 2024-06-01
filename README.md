@@ -27,7 +27,7 @@ If you have any technical problem, feel free to contact us.
 ### docs
 * Presentation: <br>
 * Shinyapps: [https://anselcheng.shinyapps.io/HousePrice/](https://112753120nccu.shinyapps.io/Stock_Prediction/)
-* Shinapps_QR_code :  ![](docs/QR_code.png) 
+* Shinapps_QR_code :  ![](docs/QR_code_01.png) 
 
 ### data
 * Input
