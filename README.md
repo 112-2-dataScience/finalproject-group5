@@ -1,5 +1,5 @@
 # [Group5] Multi-stock Price Prediction: Forecasting the Direction and Magnitude of Stock Prices for the Next Three Days
-我們設計了一款產品，包含兩種預測模型。<br>第一種模型預測未來三日或五日的收盤價。第二種模型預測未來三日或五日的上漲機率。<br>這些模型旨在幫助投資者，在股市波動時提供一個預測工具，以便更好地進行股票買賣決策
+我們設計了一款產品，包含兩種預測模型。<br>第一種模型預測未來三日或五日的收盤價。<br>第二種模型預測未來三日或五日的上漲機率。<br>這些模型旨在幫助投資者，在股市波動時提供一個預測工具，以便更好地進行股票買賣決策
 
 ## Contributors
 |組員|系級|學號|工作分配|
