@@ -81,7 +81,26 @@ If you have any technical problem, feel free to contact us.
   * Feature Selection(library(dplyr))<br>
  
 * How do your perform evaluation?
-  *  F1_score , R_squared 
+  *  F1_score , R_squared
+* 各項模型結果 :
+  ## Regression Model Comparison
+
+| Method             | R-squared |
+|--------------------|-----------|
+| Random Forest      | 0.988     |
+| Linear Regression  | 0.978     |
+| XGBoost            | 0.994     |
+
+## Classification Model Comparison
+
+| Method  | F1-score |
+|---------|----------|
+| RF      | 0.570    |
+| CART    | 0.524    |
+| SVM     | 0.538    |
+| XGB     | 0.610    |
+| LogReg. | 0.542    |
+  
 
 ### results
 * What is your performance?
