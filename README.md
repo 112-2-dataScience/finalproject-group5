@@ -71,6 +71,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   * confusion matrix(library(caret))
   * Auc(library(pROC))
   * F1_score(library(MLmetrices))
+  * library(smotefamily)
   * Feature Selection(library(dplyr))<br>
  
 * How do your perform evaluation?
