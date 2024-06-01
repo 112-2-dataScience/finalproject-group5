@@ -1,15 +1,15 @@
 # [Group5] Multi-stock Price Prediction: Forecasting the Direction and Magnitude of Stock Prices for the Next Three Days
-我們設計了一款產品，包含兩種預測模型。<br>第一種模型預測未來三日或五日的收盤價。<br>第二種模型預測未來三日或五日的上漲機率。<br>這些模型旨在幫助投資者，在股市波動時提供一個預測工具，以便更好地進行股票買賣決策
+我們設計了一款產品，包含兩種預測模型。<br>第一種模型預測未來三日或五日的收盤價。<br>第二種模型預測未來三日或五日的上漲機率。<br>這些模型旨在幫助投資者，在股市波動時提供一個預測工具，以便更好地進行股票買賣決策。
 
 ## Contributors
 |組員|系級|學號|工作分配|
 |-|-|-|-|
-|陳宥任|資科碩一|112753218|建立模型(Random Forest、 xgboost)，Github| 
-|謝皓雲|資科碩一|112753120|資料收集，整理數據，統整模型，建立股票預測架構，shinyapp建立|
+|陳宥任|資科碩一|112753218|建立模型(Random Forest、 xgboost)，Github，海報製作| 
+|謝皓雲|資科碩一|112753120|資料收集，整理數據，統整模型，建立股票預測架構，shinyapp建立，海報製作|
 |郭承諺|資科四|109703032|建立模型(Random Forest、 xgboost)，海報製作|
 |吳秉叡|社會四|109204039|資料收集，建立模型(Random Forest、 xgboost)，海報製作|
 |鄭丞皓|資科三|110703067|建立模型(Random Forest、 xgboost)，海報製作|
-|陳聰堯|阿文四|108502006|資料收集，整理數據，建立模型(Random Forest、 xgboost)|
+|陳聰堯|阿文四|108502006|資料收集，整理數據，建立模型(Random Forest、 xgboost)，海報製作|
 ## Quick start
 !! We do not recommend you to run the R file directly, since the memory requirement of it is really high.!!<br>
 The code for training the model has been uploaded to GitHub. It is recommended to download it and run it in R Studio.<br>
