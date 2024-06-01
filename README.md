@@ -64,7 +64,11 @@ If you have any technical problem, feel free to contact us.
   *  model build (randomforest, xgboost, linear regression, logistic regression)
   *  choose the model
   *  prediction
-  *  compare F1_score, R_squared, accuarcy
+  *  compare F1_score, R_squared, accuarcy<br>
+
+  
+ ![](docs/流程圖.png) 
+
 
  
 * Which method or package do you use?
@@ -87,7 +91,7 @@ If you have any technical problem, feel free to contact us.
  
     
 ![](docs/操作畫面.png)
- 
+
 
 ## References
 * Packages you use
