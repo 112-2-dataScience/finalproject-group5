@@ -83,7 +83,9 @@ If you have any technical problem, feel free to contact us.
   * Two types of models for prediction:
   * predicting the closing price for the next three or five days, evaluated using R-squared.
   * Predicting the probability of an increase in the next three or five days, evaluated using F1_score.
-
+ 
+    
+![Stock Market Prediction](images/stock_prediction.png)
  
 
 ## References
