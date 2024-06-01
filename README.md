@@ -34,6 +34,14 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   * Size<br>
      * 數量 : 54989<br>
      * 特徵: Rsi , macd , signal , cci , pctB , close , up , avg5 , up5 , avg3 , up3 , macd_way <br>
+  *股票市場的Feature介紹:<br>
+     * up：代表隔天股票價格的上漲。
+     * close : 代表股票在交易日結束時的收盤價格。
+     * avg5 : 五日移動平均線，表示過去五個交易日的平均收盤價。
+     * avg3 : 三日移動平均線，表示過去三個交易日的平均收盤價。
+     * up3 ： 未來三日漲跌幅，1表示上漲，0表示下降。
+     * up5 :  未來五日漲跌幅，1表示上漲，0表示下降。
+     * macd_way：是一種技術分析指標，當MACD線從上向下穿過訊號線時，這是一個賣出信號；當MACD線從下向上穿過訊號線時，這是一個買入信號
  
 ### code
 * Analysis steps
@@ -45,6 +53,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   *  model build
   *  prediction
   *  compare F1_score, R_squared, accuarcy
+
  
 * Which method or package do you use?
   * Random Forest(library(randomForest))
