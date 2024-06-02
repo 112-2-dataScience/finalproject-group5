@@ -107,13 +107,11 @@ If you have any technical problem, feel free to contact us.
 | LogReg. | 0.542    |
 
 
+## 分別預測未來三日的平均收盤價和未來三日股價是上漲還是下降.
 
+ | avg3 (3-Day Average Closing Price)|The average closing price over the next three trading days.|
+ |(numeric variable)                 |
 
- ## avg3 (3-Day Average Closing Price)
-
-**(numeric variable)**
-
-The average closing price over the next three trading days.
 
 ## up3 (3-Day Price Change Rate)
 
