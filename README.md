@@ -106,13 +106,27 @@ If you have any technical problem, feel free to contact us.
 | XGB     | 0.610    |
 | LogReg. | 0.542    |
 
-  
+
+
+
+ ## avg3 (3-Day Average Closing Price)
+
+**(numeric variable)**
+
+The average closing price over the next three trading days.
+
+## up3 (3-Day Price Change Rate)
+
+**(binary variable)**
+
+The change direction (upward or downward) in price over the next three trading days from today.
+
 
 ### results
 * What is your performance?
   * Two types of models for prediction:
-  * predicting the closing price for the next three or five days, evaluated using R-squared.
-  * Predicting the probability of an increase in the next three or five days, evaluated using F1_score.
+  * predicting the closing price for the next three days, evaluated using R-squared.
+  * Predicting the probability of an increase in the next three days, evaluated using F1_score.
  
     
 ![](docs/操作畫面.png)
