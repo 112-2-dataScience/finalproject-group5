@@ -36,7 +36,7 @@ If you have any technical problem, feel free to contact us.
      * 資料收集來自 yahoo!股市；使用R語言，將資料爬下來。
      * 資料網站連結 : https://tw.finance.yahoo.com/
 
-  * Format:  csv檔案
+  * Data_Format :  csv檔案
   * Size<br>
      * 數量 : 54989筆資料<br>
      * 特徵欄位 : Rsi , macd , signal , cci , pctB , close , up , avg5 , up5 , avg3 , up3 , macd_way <br>
