@@ -107,7 +107,7 @@ If you have any technical problem, feel free to contact us.
 | LogReg. | 0.542    |
 
 
-** 分別預測未來三日的平均收盤價和未來三日股價是上漲還是下降. **
+### 分別預測未來三日的平均收盤價和未來三日股價是上漲還是下降. 
 
 | Variable | Description |
 |----------|-------------|
