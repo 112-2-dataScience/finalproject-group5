@@ -109,9 +109,9 @@ If you have any technical problem, feel free to contact us.
 
 ### 分別預測未來三日的平均收盤價和未來三日股價是上漲還是下降. 
 
-| Variable | Description |
-|----------|-------------|
-| avg3 (3-Day Average Closing Price) <br>(numeric variable)| The average closing price over the next three trading days. |R-squared
+| Variable | Description |Evaluation Metrics|
+|----------|-------------|--------------|
+| avg3 (3-Day Average Closing Price) <br>(numeric variable)| The average closing price over the next three trading days.|R-squared
 |
 | up3 (3-Day Price Change Rate) <br>(binary variable)|The change direction (upward or downward) in price over the next three trading days from today.|F1-score|
 
