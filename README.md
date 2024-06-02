@@ -112,7 +112,7 @@ If you have any technical problem, feel free to contact us.
 | Variable | Description |
 |----------|-------------|
 | avg3 (3-Day Average Closing Price) <br>(numeric variable)| The average closing price over the next three trading days. |
-| up3 (3-Day Price Change Rate) <br>|(binary variable)||The change direction (upward or downward) in price over the next three trading days from today.|
+| up3 (3-Day Price Change Rate) <br>(binary variable)||The change direction (upward or downward) in price over the next three trading days from today.|
 
 
 
