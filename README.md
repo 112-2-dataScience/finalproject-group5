@@ -124,6 +124,7 @@ If you have any technical problem, feel free to contact us.
   * Two types of models for prediction:
   * predicting the closing price for the next three days, evaluated using R-squared.
   * Predicting the probability of an increase in the next three days, evaluated using F1_score.
+* Shiny App 畫面:
  
     
 ![](docs/操作畫面.png)
