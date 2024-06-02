@@ -26,8 +26,8 @@ If you have any technical problem, feel free to contact us.
 
 ### docs
 * Presentation ( PPT ): https://docs.google.com/presentation/d/1EEHOEBx_JgX7RTRgCINEB9LACA2_KQw8/edit#slide=id.g272b97762ea_0_6<br>
-* Shinyapps: [https://anselcheng.shinyapps.io/HousePrice/](https://112753120nccu.shinyapps.io/Stock_Prediction/)<br>
-* Shinapps_QR_code : <br> ![](docs/QR_code_01.png) 
+* Shiny apps: [https://anselcheng.shinyapps.io/HousePrice/](https://112753120nccu.shinyapps.io/Stock_Prediction/)<br>
+* Shiny apps_QR_code : <br> ![](docs/QR_code_01.png) 
 
 ### data
 * Input
@@ -124,7 +124,7 @@ If you have any technical problem, feel free to contact us.
   * Two types of models for prediction:
   * predicting the closing price for the next three days, evaluated using R-squared.
   * Predicting the probability of an increase in the next three days, evaluated using F1_score.
-* Shiny App 畫面:
+* Shiny app 畫面:
  
     
 ![](docs/操作畫面.png)
