@@ -1,4 +1,4 @@
-# [Group5] Multi-stock Price Prediction: Forecasting the Direction and Magnitude of Stock Prices for the Next Three Days
+# [Group5] Machine Learning for Stock Trends: Directional Stock Price Forecast, with Web Applications Avaliable
 # 我們的產品設計
 
 我們設計了一款產品，其資料來源收集自Yahoo! 股市，包含三種預測模型：
