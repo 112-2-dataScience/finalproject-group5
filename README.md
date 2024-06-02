@@ -111,8 +111,8 @@ If you have any technical problem, feel free to contact us.
 
 | Variable | Description |Evaluation Metrics|
 |----------|-------------|--------------|
-| avg3 (3-Day Average Closing Price) <br>(numeric variable)| The average closing price over the next three trading days.|R-squared|
-|up3 (3-Day Price Change Rate) <br>(binary variable)|The change direction (upward or downward) in price over the next three trading days from today.|F1-score|
+| avg3 (3-Day Average Closing Price) <br>(numeric variable)|The average closing price over the next three trading days.|R-squared|
+|up3 (3-Day Price Change Rate) <br>(binary variable)|The change direction (upward or downward) in price over the next three trading days.|F1-score|
 
 
 
