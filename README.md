@@ -39,7 +39,7 @@ If you have any technical problem, feel free to contact us.
   * Data_Format :  csv檔案
   * Size<br>
      * 數量 : 54989筆資料<br>
-     * 特徵欄位 : Rsi , macd , signal , cci , pctB , close , up , avg5 , up5 , avg3 , up3 , macd_way <br>
+     * 特徵欄位 : Rsi , macd , signal , cci , pctB , close , up  , avg3 , up3 , macd_way <br>
 ### 股票市場_Feature介紹
 
 | Variable | Description |
@@ -50,9 +50,6 @@ If you have any technical problem, feel free to contact us.
 | **cci** | CCI是一種震盪指標，用於衡量價格相對於其平均價位的偏離程度。CCI高於+100表示價格超買，低於-100表示價格超賣。 |
 | **pctB (%B Indicator)** | 表示價格相對於布林帶的位置。pctB值在0和1之間。當pctB值高於1時，表示價格超過上布林帶，當pctB值低於0時，表示價格低於下布林帶。 |
 | **close** | 代表股票在交易日結束時的收盤價格。 |
-| **up** | 代表隔天股票價格的上漲。 |
-| **avg5** | 五日移動平均線，表示過去五個交易日的平均收盤價。 |
-| **up5** | 未來五日漲跌幅，1表示上漲，0表示下降。 |
 | **avg3** | 三日移動平均線，表示過去三個交易日的平均收盤價。 |
 | **up3** | 未來三日漲跌幅，1表示上漲，0表示下降。 |
 | **macd_way** | up表示上漲，down表示下降。 |
