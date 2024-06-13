@@ -25,7 +25,7 @@ If you have any technical problem, feel free to contact us.
 
 ### docs
 * Presentation ( PPT ): [DS_group5_簡報.pdf](/docs/DS_group5_簡報.pdf)<br>
-* Presentation ( Poster ) : [DS_group_海報.pdf](docs/DS_group5_Poster.pptx.pdf)<br>
+* Presentation ( Poster ) : [DS_group5_海報.pdf](docs/DS_group5_Poster.pptx.pdf)<br>
 * Shiny App: [https://anselcheng.shinyapps.io/HousePrice/](https://112753120nccu.shinyapps.io/Stock_Prediction/)<br>
 * Shiny App_QR_code : <br> ![](docs/QR_code_01.png) 
 
