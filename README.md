@@ -24,7 +24,8 @@ The code for training the model has been uploaded to GitHub. It is recommended t
 If you have any technical problem, feel free to contact us.
 
 ### docs
-* Presentation ( PPT ): https://drive.google.com/file/d/16ne687m6-eL4K7Eci09vdUvTl2Gc7SnW/view?usp=drivesdk<br>
+* Presentation ( PPT ): [下載 PDF 檔案](路徑/至/您的檔案.pdf)
+* <br>
 * Shiny App: [https://anselcheng.shinyapps.io/HousePrice/](https://112753120nccu.shinyapps.io/Stock_Prediction/)<br>
 * Shiny App_QR_code : <br> ![](docs/QR_code_01.png) 
 
